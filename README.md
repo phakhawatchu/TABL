@@ -1,5 +1,7 @@
 # Temporal Attention augmented Bilinear Networks for Financial Time-series Data Analysis
 
+## Preparing for tensorflow 2.x
+
 https://ieeexplore.ieee.org/document/8476227
 
 Short description: We proposed a bilinear structure equipped with an attention mechanism that can highlight the temporal importance of each temporal event in multivariate time-series. The proposed structure is validated in the problem of predicting mid-price movements (increasing, decreasing, stationary) using Limit Order Book information. Our empirical analysis showed that the proposed structures outperformed existing models, even LSTM, CNN while being relatively fast. 
